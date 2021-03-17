@@ -1,0 +1,23 @@
+@charset "utf-8";
+*{margin:0;padding:0
+	;border:0;font-size:100%}
+*{padding:10px}
+#my-id{
+	background-image: url("../images/2.jpg");
+	color:white;
+}
+body h1 {
+    color: #FF0004;
+	font-family: 'Roboto', sans-serif;
+}
+#my-id2 {
+    text-decoration: underline;
+}
+.my-class {
+    background-color: #EDFF00;
+    padding-top: 0px;
+}
+.my-container {
+    border: thick solid #007DFF;
+    background-color: #A4C9D0;
+}
